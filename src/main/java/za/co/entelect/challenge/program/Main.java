@@ -4,6 +4,7 @@ import za.co.entelect.challenge.bot.BasicBot;
 import za.co.entelect.challenge.dto.Settings;
 import za.co.entelect.challenge.utils.LogHelper;
 import za.co.entelect.challenge.utils.StringUtility;
+import za.co.entelect.challenge.dto.Calculations;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
